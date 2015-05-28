@@ -1,4 +1,4 @@
-![Brushfire](s3basicauth.svg)
+![basicauthlogo](s3basicauth.png)
 #S3 Meta-Data Basic Auth
 
 S3 Meta-Data Basic Auth is a tiny helper, designed to share an S3 Link protected by a unique basic auth username and password.
